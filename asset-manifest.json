@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UpdatedDashboadr/static/css/main.62f205e1.css",
+    "main.js": "/UpdatedDashboadr/static/js/main.6f980b00.js",
+    "static/js/787.28cb0dcd.chunk.js": "/UpdatedDashboadr/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/UpdatedDashboadr/index.html",
+    "main.62f205e1.css.map": "/UpdatedDashboadr/static/css/main.62f205e1.css.map",
+    "main.6f980b00.js.map": "/UpdatedDashboadr/static/js/main.6f980b00.js.map",
+    "787.28cb0dcd.chunk.js.map": "/UpdatedDashboadr/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f205e1.css",
+    "static/js/main.6f980b00.js"
+  ]
+}
